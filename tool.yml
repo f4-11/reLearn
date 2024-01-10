@@ -1,0 +1,10 @@
+// jj esc; space + d/u; space + y/x 复制/剪切; gt 切换标签; space + m 切换栏目
+// space +fu 查找函数用法 +bb 打断点 +cd DEBUG +gd; v 退出visual模式
+// ggv/yG dG 全选
+// x 删除字符 J 删除换行 u/ctrl+r，U撤销一行所有操作 0/$/^(非空白字符) 行中定位f/t+char ,/;重复该操作 %跳转括号
+// /或者？表示查找 .表示重复上一个操作 P放在上一行，p在后面
+// :n 定位到第n行
+// s/old/new/g 替换 c 加别的操作构成改变  w/e 单词级别的移动
+// ZZ 保存并退出 ZQ 强制退出
+// forr tab //err tab
+
